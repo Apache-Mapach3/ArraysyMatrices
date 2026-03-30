@@ -1,7 +1,7 @@
 package com.jarry.arraysymatrices;
     import java.util.Random;
     import java.util.Scanner;
-        public class ArraysyMatrices {
+        public class Arrays {
             public static void main(String[] args) {
         // Declaracion y creacion de arreglo//
         int[] numeros = crearArreglo(10);
